@@ -25,3 +25,5 @@ D:\conestoga2\QATriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.Co
 D:\conestoga2\QATriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CopyComplete
 D:\conestoga2\QATriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
 D:\conestoga2\QATriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+D:\conestoga2\QATriangleSolver\TriangleSolver\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\conestoga2\QATriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.SuggestedBindingRedirects.cache

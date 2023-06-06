@@ -59,7 +59,43 @@ namespace TestClass
 
         }
 
-        
+        [Test]
+        public void InvalidTriangle_Input20and20and40_OutputInvalidTrianlge()
+        {
+            //Arrange
+            int firstSide = 20;
+            int secondSide = 20;
+            int thirdSide = 40;
+
+            string expected = "INVALID Triangle detected!!";
+
+            //Act
+            string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            //Assert
+            Assert.AreEqual(expected, actual);
+
+        }
+
+        [Test]
+        public void InvalidTriangle_Input10and20and0_OutputInvalidTrianlge()
+        {
+            //Arrange
+            int firstSide = 10;
+            int secondSide = 20;
+            int thirdSide = 0;
+
+            string expected = "Invalid Triangle - at least one side is zero";
+
+            //Act
+            string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            //Assert
+            Assert.AreEqual(expected, actual);
+
+        }
+
+
 
     }
 }

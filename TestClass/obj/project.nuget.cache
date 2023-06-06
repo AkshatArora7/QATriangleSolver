@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "qOfCoqKoPmhahOPGW+NcVWRwwUTfAuCp9bKV4ODCjdRVYqHlmB/Ht3OHfZO1TWw/ZlCzZdIu/R2njkbC2ag3Ww==",
+  "dgSpecHash": "LSAnkFEiWk8MmD9gQf4yk5G3KQQtygeM2CZvyAYtNMqjXt28WOp2MlOJIL048Zd81aLIkdSzMsTOs8VIHDOVMg==",
   "success": true,
   "projectFilePath": "D:\\conestoga2\\QATriangleSolver\\TestClass\\TestClass.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codecoverage\\17.6.1\\microsoft.codecoverage.17.6.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.1\\microsoft.net.test.sdk.17.6.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.1\\microsoft.testplatform.objectmodel.17.6.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.1\\microsoft.testplatform.testhost.17.6.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\nuget.frameworks\\6.6.0\\nuget.frameworks.6.6.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\nunit.console\\3.16.3\\nunit.console.3.16.3.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\nunit.consolerunner\\3.16.3\\nunit.consolerunner.3.16.3.nupkg.sha512",
@@ -14,7 +20,8 @@
     "C:\\Users\\Acer\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
-    "C:\\Users\\Acer\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+    "C:\\Users\\Acer\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }
