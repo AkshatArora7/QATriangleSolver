@@ -48,10 +48,10 @@ namespace TestClass
         }
 
         [Test]
-        public void ValidTriangle_Input12and5and5_OutputIsoscelesTrianlge()
+        public void ValidTriangle_Input8and5and5_OutputIsoscelesTrianlge()
         {
             //Arrange
-            int firstSide = 12;
+            int firstSide = 8;
             int secondSide = 5;
             int thirdSide = 5;
 
@@ -66,12 +66,12 @@ namespace TestClass
         }
 
         [Test]
-        public void ValidTriangle_Input3and14and3_OutputIsoscelesTrianlge()
+        public void ValidTriangle_Input7and9and7_OutputIsoscelesTrianlge()
         {
             //Arrange
-            int firstSide = 3;
-            int secondSide = 14;
-            int thirdSide = 3;
+            int firstSide = 7;
+            int secondSide = 9;
+            int thirdSide = 7;
 
             string expected = "An ISOSCELES triangle is formed";
 
@@ -122,12 +122,12 @@ namespace TestClass
         }
 
         [Test]
-        public void ValidTriangle_Input89and56and180_OutputScaleneTrianlge()
+        public void ValidTriangle_Input10and11and15_OutputScaleneTrianlge()
         {
             //Arrange
-            int firstSide = 89;
-            int secondSide = 56;
-            int thirdSide = 180;
+            int firstSide = 10;
+            int secondSide = 11;
+            int thirdSide = 15;
 
             string expected = "A SCALENE triangle is formed";
 
